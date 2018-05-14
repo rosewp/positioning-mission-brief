@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #000000;
+	color: #3ae800;
+	font-family: Courier New; 
+	text-align: left;
+	font-size: 14pt;
+	
+}
+
+h1, h2, h3, h4, h5 {
+	color: #3ae800;
+	font-family: Courier New; 
+	text-align: left;
+	font-size: 16pt;
+	
+}
+
+h1 {
+	letter-spacing: 5px;
+	font-size: 26pt;
+	
+}
+
+#console{
+	line-height: 90%;
+	letter-spacing: 80%;
+	font-size: 10pt;
+}
+
+#maintext{
+	margin: 50px;
+	padding-left: 50px;
+	
+}
