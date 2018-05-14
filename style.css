@@ -35,3 +35,15 @@ h1 {
 	padding-left: 50px;
 	
 }
+
+#entrycode{
+	margin: 50px;
+	padding-left: 50px;
+	
+}
+
+#body{
+	line-height: 90%;
+	letter-spacing: 80%;
+	font-size: 10pt;
+}
